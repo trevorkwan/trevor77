@@ -3,6 +3,7 @@ layout: post
 title: NEW SONG of James Arthur
 ---
 ## This is James Arthurs new song!
+![James Arthur]({{ https://www.billboard.com/files/styles/article_main_image/public/media/James-Arthur-press-photo-Olaf-Heine-2017-billboard-1548.jpg }}/images/jekyll-logo.png "an image title")
 
 ### A list of the best James Arthur songs below:
 1. Safe Inside
