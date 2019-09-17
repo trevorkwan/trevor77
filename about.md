@@ -4,10 +4,11 @@ title: About
 permalink: /about/
 ---
 
-lalala
+Hi, I'm Trevor and I like to post about music!
+
 ### More Information
 
-I like to post about singers.
+Today's feature singer is James Arthur
 
 ### Contact me
 
