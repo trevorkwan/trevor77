@@ -1,9 +1,10 @@
 ---
 layout: post
-title: The First Post of Trevor77
+title: NEW SONG of James Arthur
 ---
-I already updated it
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+This is James Arthurs new song!
+
+[CLICK HERE FOR HIS SONG](https://www.youtube.com/watch?v=2TtgkKZNTa8)
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
