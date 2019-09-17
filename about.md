@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
+lalala
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I like to post about singers.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[tktrevorkwan@gmail.com](mailto:tktrevorkwan@gmail.com)
